@@ -3,6 +3,8 @@ title: "commenting"
 format: html
 comments:
   hypothesis: true
+  utterances:
+    repo: kmasiello/commenting-test
 ---
 
 ## Quarto
